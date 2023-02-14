@@ -9,3 +9,7 @@ Python, Pandas, sqlalchemy, Tableau
 1. Проанализировать датасет с помощью пайтона
 2. Собрать интерактивный дашборд в Tableau, показывающий распредление карточек по темам и источникам
 3. Создать презентацию по результатам работы
+
+### Ссылка на дашборд: 
+https://public.tableau.com/app/profile/ann.zh5606/viz/Sprint9_v6/sheet4?publish=yes
+
